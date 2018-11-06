@@ -1,0 +1,19 @@
+/*
+* Paige Berstler
+* 11/6/18
+* Panda Travel Agency
+*/
+
+/* The universal selector */
+
+*{ 
+
+}
+
+/* Body attributes here */
+
+body { background-color: floralwhite; color: darkcyan}
+
+#island { width: 450px; height: 300px; }
+#map { width: 500px; height: 350px; }
+#cells { width: 550px; height: 350px; }
